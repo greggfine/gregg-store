@@ -10,3 +10,6 @@ We are using **node-sass** package
 *To remove Git origin:*
 
     git remote remove origin
+
+
+Test remove
